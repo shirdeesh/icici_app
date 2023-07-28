@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>in.MADHUIT</groupId>
-  <artifactId>icici_appl</artifactId>
+  <artifactId>icici_ap</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>icici_app Maven Webapp</name>
+  <name>icici_ap Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>icici_app</finalName>
+    <finalName>icici_ap</finalName>
   </build>
 </project>
